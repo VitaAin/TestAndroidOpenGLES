@@ -7,6 +7,9 @@ import android.view.View;
 
 import com.vita.opengles.activity.TriangleActivity;
 
+/**
+ * 未成功
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     @Override
